@@ -1,6 +1,8 @@
 # hua-todo-task
 Hua-Todo-App consists of two main parts
 
+note:  must be done agaın
+
 #Important! You need this programs on your computer.
 
 *NodeJS 
